@@ -8,7 +8,7 @@ AI/ML Engineer • Software Engineer • Python • FastAPI • React • Backen
 
 ## About Me
 
-AI/ML Engineer and Software Developer with hands-on experience building end-to-end machine learning systems and full-stack applications. Strong expertise in Python, NLP, embeddings, vector search, and backend API development. Experienced in designing scalable backend systems, deploying ML models, and developing production-ready applications.
+AI/ML Engineer and Software Developer with hands-on experience building end-to-end machine learning systems and full-stack applications. Strong expertise in Python, NLP, embeddings, vector search, and backend API development. Experienced in designing scalable backend systems and deploying production-ready applications.
 
 ---
 
@@ -44,12 +44,36 @@ Git • GitHub • Postman • VS Code • Jupyter Notebook
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devyani-27&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devyani-27&theme=dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-27&layout=compact">
-</
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Devyani-27&theme=dark&hide_border=false">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-27&theme=dark&hide_border=false&layout=compact">
+</p>
+
+---
+
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Devyani-27&icon=5&color=6">
+</p>
+
+---
+
+## Contact
+
+GitHub: https://github.com/Devyani-27  
+LinkedIn: https://linkedin.com/in/devyani-pathrikar  
+Email: devyanipathrikar27@gmail.com  
+
+---
+
+Focus: AI Engineering • Machine Learning • Backend Engineering • Software Development
